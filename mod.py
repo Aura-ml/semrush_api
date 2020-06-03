@@ -82,8 +82,11 @@ class ObtenirRapport:
         # return requests.request('POST', self.url, headers=self.headers, params=self.querystring)
 
 
+
 if __name__ == '__main__':
-    help(ObtenirRapport)
+    pass
+
+
     # build payload
 
     # payload = {'type': 'domain_organic',
